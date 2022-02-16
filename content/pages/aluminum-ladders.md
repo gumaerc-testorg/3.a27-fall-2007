@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Aluminum Ladders
 uid: 1fba082f-9776-30ad-8ac0-26970eae4286
 ---

@@ -1,12 +1,14 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Soggy Furs
 uid: 975ab73f-68c4-7a98-4695-d43a92097a65
 ---
 
 Image Gallery
 -------------
-{{< image-gallery id="975ab73f-68c4-7a98-4695-d43a92097a65_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/3-a27-case-studies-in-forensic-metallurgy-fall-2007/" >}}
+{{< image-gallery id="975ab73f-68c4-7a98-4695-d43a92097a65_nanogallery2" baseUrl="/courses/3-a27-case-studies-in-forensic-metallurgy-fall-2007/" >}}
 {{< image-gallery-item href="53f99acb7a4fa4ff1f73e4d1beb7c402_2-1.jpg" data-ngdesc="Failed pipe assembly." text="Failed pipe assembly." >}}
 {{< image-gallery-item href="0b02bb586d1103fa7204ea18fc8d898c_2-2.jpg" data-ngdesc="Failed bushing, showing corrosion." text="Failed bushing, showing corrosion." >}}
 {{< image-gallery-item href="30de0875e7b0ea64570330f053d6a549_2-3.jpg" data-ngdesc="Failed bushing, from the other side." text="Failed bushing, from the other side." >}}

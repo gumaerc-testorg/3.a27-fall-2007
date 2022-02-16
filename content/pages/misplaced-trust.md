@@ -1,12 +1,14 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Misplaced Trust
 uid: f788fb1b-8fa0-8f29-a1e7-89b3eb276bc8
 ---
 
 Image Gallery
 -------------
-{{< image-gallery id="f788fb1b-8fa0-8f29-a1e7-89b3eb276bc8_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/3-a27-case-studies-in-forensic-metallurgy-fall-2007/" >}}
+{{< image-gallery id="f788fb1b-8fa0-8f29-a1e7-89b3eb276bc8_nanogallery2" baseUrl="/courses/3-a27-case-studies-in-forensic-metallurgy-fall-2007/" >}}
 {{< image-gallery-item href="5a23e4008775cf5567f78fdb1233c1b8_35.jpg" data-ngdesc="Microstructure of whole bolt. Magnified 100X. (Image Courtesy of Kenneth C. Russell.)" text="" >}}
 {{< image-gallery-item href="33184a3b720df0f62c5645ca647bd836_36.jpg" data-ngdesc="Overall view of fracture surface of failed bolt. (Image Courtesy of Kenneth C. Russell.)" text="" >}}
 {{< image-gallery-item href="5f138f8a4f2a8d20ed64e63c18bee650_31.jpg" data-ngdesc="End of fractured eyebolt and associated hardware. (Image Courtesy of Kenneth C. Russell.)" text="" >}}

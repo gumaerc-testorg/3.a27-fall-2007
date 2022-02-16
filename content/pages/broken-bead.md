@@ -1,12 +1,14 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Worster Tire
 uid: 6cfc75ec-ec28-2834-ca05-9bff1d917820
 ---
 
 Image Gallery
 -------------
-{{< image-gallery id="6cfc75ec-ec28-2834-ca05-9bff1d917820_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/3-a27-case-studies-in-forensic-metallurgy-fall-2007/" >}}
+{{< image-gallery id="6cfc75ec-ec28-2834-ca05-9bff1d917820_nanogallery2" baseUrl="/courses/3-a27-case-studies-in-forensic-metallurgy-fall-2007/" >}}
 {{< image-gallery-item href="e63a44f361d59de4ee8f449407296695_11-1.jpg" data-ngdesc="Subject tire, as received." text="Subject tire, as received." >}}
 {{< image-gallery-item href="cbd172cd24141649653bebcc0637e247_11-2.jpg" data-ngdesc="View of bead wires, showing ductile fracture." text="View of bead wires, showing ductile fracture." >}}
 {{< image-gallery-item href="846c88ec8c3060ebdbcbfe044da28ce6_11-3.jpg" data-ngdesc="Another view of bead wires, showing ductile fracture." text="Another view of bead wires, showing ductile fracture." >}}

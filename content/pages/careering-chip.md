@@ -1,12 +1,14 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Careening Chip
 uid: 8633a449-f1ac-d255-ed81-a8379f7ee3e8
 ---
 
 Image Gallery
 -------------
-{{< image-gallery id="8633a449-f1ac-d255-ed81-a8379f7ee3e8_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/3-a27-case-studies-in-forensic-metallurgy-fall-2007/" >}}
+{{< image-gallery id="8633a449-f1ac-d255-ed81-a8379f7ee3e8_nanogallery2" baseUrl="/courses/3-a27-case-studies-in-forensic-metallurgy-fall-2007/" >}}
 {{< image-gallery-item href="0dbffd4e753676f5fd67f03b4f6033c2_10-1.jpg" data-ngdesc="Schematic of saw blade, showing how the carbide tooth fractured both along the join and through the carbide." text="Schematic of saw blade, showing how the carbide tooth fractured both along the join and through the carbide." >}}
 {{< image-gallery-item href="47056bdbe9b01d1edd4c16b0040d8138_10-2.jpg" data-ngdesc="Subject blade, showing multiple broken teeth." text="Subject blade, showing multiple broken teeth." >}}
 {{< image-gallery-item href="1816cfc9e20ac613bdb2e83d8dc36135_10-3.jpg" data-ngdesc="Detached tooth No. 1 in SEM mount, edge-on, showing fracture through the joint and the carbide." text="Detached tooth No. 1 in SEM mount, edge-on, showing fracture through the joint and the carbide." >}}

@@ -1,12 +1,14 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Acid Drum
 uid: ede6c3b4-a888-c0aa-5a65-8ca13e647cb4
 ---
 
 Image Gallery
 -------------
-{{< image-gallery id="ede6c3b4-a888-c0aa-5a65-8ca13e647cb4_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/3-a27-case-studies-in-forensic-metallurgy-fall-2007/" >}}
+{{< image-gallery id="ede6c3b4-a888-c0aa-5a65-8ca13e647cb4_nanogallery2" baseUrl="/courses/3-a27-case-studies-in-forensic-metallurgy-fall-2007/" >}}
 {{< image-gallery-item href="25910fa356706f4fec560a6f9dcbae78_5-1.jpg" data-ngdesc="Analysis of barrel composition." text="Analysis of barrel composition." >}}
 {{< image-gallery-item href="058cfc1d35661ac2bf709195e0708da2_5-2.jpg" data-ngdesc="Barrel after failure." text="Barrel after failure." >}}
 {{< image-gallery-item href="5cb41c5a07fd508cb81d533db71a333c_5-3.jpg" data-ngdesc="Corroded lid of barrel." text="Corroded lid of barrel." >}}
