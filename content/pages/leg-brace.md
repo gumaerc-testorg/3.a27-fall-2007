@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides an image gallery and information on readings,
+  assignments, and further reading for the case study: Leg Brace.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Leg Brace
@@ -17,7 +19,7 @@ Image Gallery
 Reading
 -------
 
-Russell, Ken. "Report on Fractured Leg Brace." ([PDF]({{< baseurl >}}/resources/12))
+Russell, Ken. "Report on Fractured Leg Brace." ({{% resource_link d78a6470-8959-13ce-c05d-5174098782ca "PDF" %}})
 
 Assignments
 -----------

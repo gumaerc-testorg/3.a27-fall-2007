@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides an image gallery and information on readings,
+  assignments, and further reading for the case study: Soggy Furs.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Soggy Furs
@@ -20,7 +22,7 @@ Readings
 
 Callister, Section 17.4: Prediction of Corrosion Rates. pp. 631-638
 
-Russell, Ken. "Report on the Furs Warehouse Plumbing Failure." ([PDF]({{< baseurl >}}/resources/2))
+Russell, Ken. "Report on the Furs Warehouse Plumbing Failure." ({{% resource_link ec478be3-185f-7eea-2e92-fc6e2140d7fe "PDF" %}})
 
 Assignments
 -----------

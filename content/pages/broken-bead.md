@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides an image gallery and information on readings,
+  assignments, and further reading for the case study: Worster Tire.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Worster Tire
@@ -18,7 +20,7 @@ Image Gallery
 Reading
 -------
 
-Russell, Ken. "Report on Fractured Bead in Tire."([PDF]({{< baseurl >}}/resources/11))
+Russell, Ken. "Report on Fractured Bead in Tire."({{% resource_link 19e660e8-04a9-c84d-0def-9a4cad1c8290 "PDF" %}})
 
 Assignment
 ----------

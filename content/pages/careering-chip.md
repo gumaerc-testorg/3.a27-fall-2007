@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides an image gallery and information on readings,
+  assignments, and further reading for the case study: Careening Chip.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Careening Chip
@@ -16,7 +18,7 @@ Image Gallery
 Reading
 -------
 
-Russell, Ken. Letter, Sawblade Investigation. ([PDF]({{< baseurl >}}/resources/10))
+Russell, Ken. Letter, Sawblade Investigation. ({{% resource_link 251e2e10-0dc9-fc68-84dd-fcc346ece33f "PDF" %}})
 
 Assignments
 -----------

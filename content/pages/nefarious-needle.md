@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides an image gallery and information on readings,
+  assignments, and further reading for the case study: Nefarious Needle.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Nefarious Needle
@@ -22,7 +24,7 @@ Readings
 
 Moore, Jim. "The Puzzling Origins of AIDS." _American Scientist_ 92 (November-December 2004): 540.
 
-Russell, Ken. "Report on Fractured Hypodermic Needle." ([PDF]({{< baseurl >}}/resources/6))
+Russell, Ken. "Report on Fractured Hypodermic Needle." ({{% resource_link d8f212e4-2015-3549-86ce-8f64bd75a819 "PDF" %}})
 
 Assignments
 -----------

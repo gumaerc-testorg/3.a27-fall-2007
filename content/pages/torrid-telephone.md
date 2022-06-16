@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides an image gallery and information on readings,
+  assignments, and further reading for the case study: Torrid Telephone.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Torrid Telephone
@@ -19,7 +21,7 @@ Readings
 
 Callister, Section 17.10: Oxidation. pp. 651-654
 
-Russell, Ken. "Report on Fire-Damaged Telephone Cord." ([PDF]({{< baseurl >}}/resources/1))
+Russell, Ken. "Report on Fire-Damaged Telephone Cord." ({{% resource_link a0178484-2e90-20e2-dabc-74b298f47f4b "PDF" %}})
 
 Assignments
 -----------

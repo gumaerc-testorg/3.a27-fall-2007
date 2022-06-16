@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides an image gallery and information on readings,
+  assignments, and further reading for the case study: Misplaced Trust.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Misplaced Trust
@@ -31,7 +33,7 @@ Image Gallery
 Reading
 -------
 
-Russell, Ken. "Report on Fractured Eyebolt." ([PDF]({{< baseurl >}}/resources/3))
+Russell, Ken. "Report on Fractured Eyebolt." ({{% resource_link 80dd41dd-ef7a-03b0-0ed9-0d724cbeadf5 "PDF" %}})
 
 Assignments
 -----------

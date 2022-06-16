@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides an image gallery and information on readings,
+  assignments, and further reading for the case study: Aluminum Ladders.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Aluminum Ladders
@@ -11,9 +13,9 @@ Image Gallery
 Readings
 --------
 
-Russell, Ken. Letter, Ladder Investigation. ([PDF]({{< baseurl >}}/resources/4))
+Russell, Ken. Letter, Ladder Investigation. ({{% resource_link 6d641620-f33e-f394-1aff-dc3cb242db45 "PDF" %}})
 
-Calculations, Local Buckling of Flanges. ([PDF]({{< baseurl >}}/resources/4c))
+Calculations, Local Buckling of Flanges. ({{% resource_link 50e7ad3f-1720-87d0-c9e6-8c50b0d4a71f "PDF" %}})
 
 Assignment
 ----------

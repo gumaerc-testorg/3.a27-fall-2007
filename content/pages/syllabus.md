@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section provides the course overview and information about
+  course texts, attendance and assignments, and the schedule of lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -55,7 +57,7 @@ CASE STUDY
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Torrid telephone]({{< baseurl >}}/pages/torrid-telephone)
+{{% resource_link 8f1f7376-76f2-edc8-d671-df9a98994ac1 "Torrid telephone" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +66,7 @@ CASE STUDY
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Soggy furs]({{< baseurl >}}/pages/soggy-furs)
+{{% resource_link 975ab73f-68c4-7a98-4695-d43a92097a65 "Soggy furs" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +75,7 @@ CASE STUDY
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Misplaced trust]({{< baseurl >}}/pages/misplaced-trust)
+{{% resource_link f788fb1b-8fa0-8f29-a1e7-89b3eb276bc8 "Misplaced trust" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +84,7 @@ CASE STUDY
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Aluminum ladders]({{< baseurl >}}/pages/aluminum-ladders)
+{{% resource_link 1fba082f-9776-30ad-8ac0-26970eae4286 "Aluminum ladders" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ CASE STUDY
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Acid drum]({{< baseurl >}}/pages/acid-drum)
+{{% resource_link ede6c3b4-a888-c0aa-5a65-8ca13e647cb4 "Acid drum" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +102,7 @@ CASE STUDY
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Nefarious needle]({{< baseurl >}}/pages/nefarious-needle)
+{{% resource_link af62a137-8617-0a7f-2318-18048c88deb2 "Nefarious needle" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +111,7 @@ CASE STUDY
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Snow collapses]({{< baseurl >}}/pages/snow-collapses)
+{{% resource_link 97882f52-88af-0341-088e-f9ef0bcc0e9b "Snow collapses" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +138,7 @@ Field trip: welding lab
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Careering chip]({{< baseurl >}}/pages/careering-chip)
+{{% resource_link 8633a449-f1ac-d255-ed81-a8379f7ee3e8 "Careering chip" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +147,7 @@ Field trip: welding lab
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Broken bead]({{< baseurl >}}/pages/broken-bead)
+{{% resource_link 6cfc75ec-ec28-2834-ca05-9bff1d917820 "Broken bead" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +156,7 @@ Field trip: welding lab
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Leg brace]({{< baseurl >}}/pages/leg-brace)
+{{% resource_link 06613ac4-2652-5c9b-af60-567aaa9d86d0 "Leg brace" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

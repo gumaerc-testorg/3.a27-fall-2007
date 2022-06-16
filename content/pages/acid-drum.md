@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides an image gallery and information on readings,
+  assignments, and further reading for the case study: Acid Drum.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Acid Drum
@@ -21,7 +23,7 @@ Readings
 
 Callister, Section 17.7: Forms of Corrosion. pp. 643-645.
 
-Chemical Analysis. ([PDF]({{< baseurl >}}/resources/5))
+Chemical Analysis. ({{% resource_link 0588bc17-9db5-873f-2a65-27eca7b906ad "PDF" %}})
 
 Assignments
 -----------

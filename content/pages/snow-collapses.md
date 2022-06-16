@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides an image gallery and information on readings,
+  assignments, and further reading for the case study: Snow Collapses.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Snow Collapses
@@ -25,9 +27,9 @@ Readings
 
 Martin, Rachel. "[Hartford Civic Center Arena Roof Collapse](http://www.courant.com/business/real-estate/hc-1978-civic-center-collapse-pg,0,3647390.photogallery)."
 
-Russell, Ken. "Report on Greenhouse Collapse." ([PDF]({{< baseurl >}}/resources/7))
+Russell, Ken. "Report on Greenhouse Collapse." ({{% resource_link b0429daa-6c8b-d4d6-7563-0094c615b824 "PDF" %}})
 
-———. Letter, Coliseum Investigation. ([PDF]({{< baseurl >}}/resources/7b))
+———. Letter, Coliseum Investigation. ({{% resource_link 3009c2ee-a88d-d8fa-e997-6d50f3af63d9 "PDF" %}})
 
 Assignments
 -----------
