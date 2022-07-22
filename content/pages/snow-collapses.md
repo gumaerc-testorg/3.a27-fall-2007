@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: 'This section provides an image gallery and information on readings,
+  assignments, and further reading for the case study: Snow Collapses.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Snow Collapses
 uid: 97882f52-88af-0341-088e-f9ef0bcc0e9b
 ---
 
 Image Gallery
 -------------
-{{< image-gallery id="97882f52-88af-0341-088e-f9ef0bcc0e9b_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/3-a27-case-studies-in-forensic-metallurgy-fall-2007/" >}}
+{{< image-gallery id="97882f52-88af-0341-088e-f9ef0bcc0e9b_nanogallery2" baseUrl="/courses/3-a27-case-studies-in-forensic-metallurgy-fall-2007/" >}}
 {{< image-gallery-item href="86342bf0abc5f93e0b90a4429f8aa42b_7-1.jpg" data-ngdesc="Fractured gutter support casting (right)." text="Fractured gutter support casting (right)." >}}
 {{< image-gallery-item href="beb955714f78ddede4f713ac685d6390_7-2.jpg" data-ngdesc="Photomacrograph of fractured gutter support." text="Photomacrograph of fractured gutter support." >}}
 {{< image-gallery-item href="d9cbdfacc3d33fb5cc96ccc9e30d3887_7-3.jpg" data-ngdesc="As-polished fractured gutter support casting. (200X)" text="As-polished fractured gutter support casting. (200X)" >}}
@@ -23,9 +27,9 @@ Readings
 
 Martin, Rachel. "[Hartford Civic Center Arena Roof Collapse](http://www.courant.com/business/real-estate/hc-1978-civic-center-collapse-pg,0,3647390.photogallery)."
 
-Russell, Ken. "Report on Greenhouse Collapse." ([PDF]({{< baseurl >}}/resources/7))
+Russell, Ken. "Report on Greenhouse Collapse." ({{% resource_link b0429daa-6c8b-d4d6-7563-0094c615b824 "PDF" %}})
 
-———. Letter, Coliseum Investigation. ([PDF]({{< baseurl >}}/resources/7b))
+———. Letter, Coliseum Investigation. ({{% resource_link 3009c2ee-a88d-d8fa-e997-6d50f3af63d9 "PDF" %}})
 
 Assignments
 -----------
