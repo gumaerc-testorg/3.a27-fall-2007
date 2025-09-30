@@ -25,7 +25,7 @@ Image Gallery
 Readings
 --------
 
-Martin, Rachel. "[Hartford Civic Center Arena Roof Collapse](http://www.courant.com/business/real-estate/hc-1978-civic-center-collapse-pg,0,3647390.photogallery)."
+Martin, Rachel. "{{% resource_link "b4b93366-1d41-485a-ac50-4282db9a9d54" "Hartford Civic Center Arena Roof Collapse" %}}."
 
 Russell, Ken. "Report on Greenhouse Collapse." ({{% resource_link b0429daa-6c8b-d4d6-7563-0094c615b824 "PDF" %}})
 
@@ -41,6 +41,6 @@ Please prepare a short presentation on the Civic Center case and its evidence.
 Further Readings
 ----------------
 
-"[Calamities](http://www.designnews.com/article/CA6435776.html)" column: The Case of the Gassy Greenhouse
+"{{% resource_link "98b8fe57-4463-4b8f-b03d-4fc230ba0d76" "Calamities" %}}" column: The Case of the Gassy Greenhouse
 
-"[Calamities](http://www.designnews.com/article/CA603734.html)" column: The Case of the Collapsing Coliseum
+"{{% resource_link "53cc2667-06ea-48da-8064-949ba649caf6" "Calamities" %}}" column: The Case of the Collapsing Coliseum

@@ -38,4 +38,4 @@ Please prepare a short presentation on corrosion.
 Further Reading
 ---------------
 
-"[Calamities](http://www.designnews.com/article/ca268958.html)" column: The Case of the Soggy Furs
+"{{% resource_link "15031ec6-ebff-428c-bd55-12c5b3387a1b" "Calamities" %}}" column: The Case of the Soggy Furs
