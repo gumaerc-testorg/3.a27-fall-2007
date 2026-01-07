@@ -23,7 +23,7 @@ Texts
 
 In addition to the readings and technical reports included with each case study, students are recommended to use the following resources when preparing their reports.
 
-{{% resource_link "61fd7921-0170-42d6-ad64-74603f714df1" "Wikipedia" %}}
+[Wikipedia](http://en.wikipedia.org/wiki/Main_Page)
 
 Callister, W. D., Jr. _Materials Science and Engineering: An Introduction_. 7th ed. New York, NY: John Wiley and Sons, 2007. ISBN: 9780471736967.  
 Chapter 8, "Failure", and chapter 17, "Corrosion and Degradation of Materials", are particularly helpful.

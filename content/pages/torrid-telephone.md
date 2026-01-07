@@ -37,4 +37,4 @@ Please prepare a short presentation on oxidation.
 Further Reading
 ---------------
 
-"{{% resource_link "b010c06b-2db1-4253-9925-410bf19b3ee3" "Calamities" %}}" column: The Case of the Torrid Telephone
+"[Calamities](http://www.designnews.com/article/ca286845.html)" column: The Case of the Torrid Telephone
