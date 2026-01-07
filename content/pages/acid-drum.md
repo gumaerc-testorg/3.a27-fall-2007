@@ -37,4 +37,4 @@ Please prepare a short presentation on welding, the process what it is intended 
 Further Reading
 ---------------
 
-"{{% resource_link "329ee3fe-6693-484d-a2f1-eee831950368" "Calamities" %}}" column: The Case of the Acid Test
+"[Calamities](http://www.designnews.com/article/ca276305.html)" column: The Case of the Acid Test
